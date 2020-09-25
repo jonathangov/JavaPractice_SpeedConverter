@@ -1,7 +1,7 @@
 package academy.learnprogramming;
 
 public class Main {
-
+    // Exercise 1
     public static void main(String[] args) {
 
         long checkSolution = toMilesPerHour(-2.0);
